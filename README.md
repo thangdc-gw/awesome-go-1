@@ -91,7 +91,7 @@ A curated list of awesome Go frameworks, libraries and software.
         - [Translation](#translation)
         - [Transliteration](#transliteration)
     - [Networking](#networking)
-        - [Proxy & Tunnel](#proxy-&-tunnel)
+        - [Proxy & Tunnel](#proxy-tunnel)
         - [HTTP Clients](#http-clients)
     - [OpenGL](#opengl)
     - [ORM](#orm)
